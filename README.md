@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rubio Oliveira
 
-- 🔭 Atualmente eu estou em busca de uma oportunidade de estágio
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistema (EAD)
+- 🔭 I'm currently looking for an internship or junior opportunity
+- 🌱 At the moment I'm studying System Analysis and Development (EAD)
 
 ##
 
