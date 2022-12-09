@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rubio Oliveira
+### Olá! 🤝 eu sou o Rubio Oliveira
 
 - 🔭 I'm currently looking for an internship or junior opportunity
 - 🌱 At the moment I'm studying System Analysis and Development (EAD)
