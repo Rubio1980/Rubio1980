@@ -1,7 +1,8 @@
 ### Olá! 🤙 eu sou o Rubio Oliveira
 
-- 🔭 I'm currently looking for an internship or junior opportunity
 - 🌱 At the moment I'm studying System Analysis and Development (EAD)
+- 🔭 I'm currently looking for an internship or junior opportunity
+- 🧪 Degree in Chemestry
 
 ##
 
