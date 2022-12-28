@@ -1,6 +1,6 @@
 ### Hi! 🤙 I'm Rubio Oliveira 🧑‍🎓
 
-- 🌱 At the moment I'm studying System Analysis and Development (EAD) 💻 ⌨️
+- 🌱 At the moment I'm studying System Analysis and Development (EAD) 💻 ⌨️ 🖱️
 - 🔭 I'm currently looking for an internship or junior opportunity
 - 🧪 Degree in Chemestry
 
