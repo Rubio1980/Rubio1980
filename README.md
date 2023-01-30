@@ -2,6 +2,7 @@
 
 - 🌱 At the moment I'm studying System Analysis and Development (EAD) 💻 ⌨️ 🖱️
 - 🔭 I'm currently looking for an internship or junior opportunity
+- ✏️ I've been studying HTML, CSS and JS
 - 🧪 Degree in Chemestry
 
 ##
