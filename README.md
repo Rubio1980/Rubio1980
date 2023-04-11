@@ -1,7 +1,7 @@
 ### Hi! 🤙 I'm Rubio Oliveira 🧑‍🎓
 
 - 🌱 At the moment I'm studying System Analysis and Development (EAD) at Mackenzie 💻 ⌨️ 🖱️
-- 🔭 I'm currently looking for an junior opportunity
+- 🔭 I'm currently looking for a Junior Front End Developer opportunity
 - ✏️ I've been studying HTML, CSS and JS
 - 🧪 Degree in Chemestry
 
